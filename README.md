@@ -4,7 +4,7 @@ I learnt Python by auditing this course offered by the National Taiwan Universit
 
 See [here](https://www.coursera.org/learn/pbc1) for course webpate.
 
-I stored the exercises in this hub.
+I stored my answers to the exercises in this hub.
 
-I use Visual Studio Code Version: 1.96.2 (Universal) and Python 3.13.0
+I used Visual Studio Code Version: 1.96.2 (Universal) and Python 3.13.0
 
