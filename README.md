@@ -1,6 +1,6 @@
 ## 用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1))
 
-I learnt Python by auditing this course offered by by National Taiwan University vis Coursera.
+I learnt Python by auditing this course offered by the National Taiwan University vis Coursera.
 
 See [here](https://www.coursera.org/learn/pbc1) for course webpate.
 
